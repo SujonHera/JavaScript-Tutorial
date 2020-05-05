@@ -9,4 +9,4 @@ In the Basic JavaScript We Learn **Variable**, **JavaScript Data type**,  **Oper
 
 
 ## Object Oriented Javascript 
-Javascript object oriented programming has: **Class, **Object, **Constructor, **Inheritance.
+Javascript object oriented programming has:  **Class**, **Object**,  **Constructor**, **Inheritance**
