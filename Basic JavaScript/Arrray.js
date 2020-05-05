@@ -6,10 +6,11 @@ let friends = ['Rakib','Niloy','Shibbir','Shuvo','Nahid']
 
  let names = ['Jubel Ahmed','Rita Hossain','Sujon Hossain', 'Sharlina Hossain']
  console.log(names.indexOf('Sujon Hossain'));
-  let name = names.splice(1, 2,'Shraboni Hossain')
+  let name = names.slice(1,3)
   
   console.log(name);
   
+  console.log(names.splice(3, 1))
  // reduce, keys, values, 
 
  for (let i = 0; i < friends.length; i++) {
