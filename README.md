@@ -5,13 +5,8 @@ Basic JavaScript,  Functional JavaScript, Object oriented JavaScript, ES-6, Java
 
 In the Basic JavaScript We Learn **Variable**, **JavaScript Data type**,  **Operator**, **If-else**, **Loop**, **String**, **Array**, **Function**, **Object**.
 
-* [Variable](http://www.google)
-* [Data_type] ()
-* [Operator] ()
-* [If-else] ()
-* [Loop] ()
-* [String] ()
-* [Array] ()
-* [Function] ()
-* [Javascript_Some_Method] ()
-* [Object] ()
+## Functional Javascript
+
+
+## Object Oriented Javascript 
+Javascript object oriented programming has:  **Class**, **Object**,  **Constructor**, **Inheritance**
